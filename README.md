@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nailec</h1>
 <h3 align="center">Tiktok manager, Gamer, Devlopper</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nailelevrai&label=Profile%20views&color=0e75b6&style=flat" alt="nailelevrai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naileclevrai&label=Profile%20views&color=0e75b6&style=flat" alt="naileclevrai" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nailelevrai" alt="nailelevrai" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naileclevrai" alt="naileclevrai" /></a> </p>
 
 - 🔭 I’m currently working on [StreamlineAgency](https://streamlineagency.eu)
 
@@ -19,9 +19,6 @@
 
 - 📫 How to reach me **nailec@streamlineagency.eu**
 
-- 📄 Know about my experiences [https://nailec.fr/exp](https://nailec.fr/exp)
-
-- ⚡ Fun fact **I code :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,5 +36,5 @@
 <p><a href="https://www.buymeacoffee.com/nailecmc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nailecmc" /></a></p><br><br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nailelevrai&show_icons=true&locale=en&layout=compact" alt="nailelevrai" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naileclevrai&show_icons=true&locale=en&layout=compact" alt="naileclevrai" /></p>
 
